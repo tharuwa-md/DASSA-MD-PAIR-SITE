@@ -1,0 +1,10 @@
+module.exports = {
+    PREFIX: "CYEBAR-DEXTER-MD [KILL]>>>",
+    CONNECTED_MESSAGE: `
+┏━━━━━━━━━━━━━━
+┃DEXTER MD SESSION IS 
+┃SUCCESSFULLY
+┃CONNECTED ✅🔥
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+};
