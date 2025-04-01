@@ -1,12 +1,21 @@
 module.exports = {
-    PREFIX: "DASSA-MD [KILL]>>>",
-    SUCCESS_NUMBERS: ["94743277981"], 
-    SUCCESS_MESSAGE: "*HELLO DASSA MD V2 OWNER 🚀*",
+    PREFIX: "THARUWA-MD~",
+    SUCCESS_NUMBERS: ["94761180276"], 
+    SUCCESS_MESSAGE: "*HELLO THARUWA  MD V1 OWNER 🚀*",
     CONNECTED_MESSAGE: `
-┏━━━━━━━━━━━━━━
-┃📍 *DASSA MD SESSION ID*
-┃📍 *SUCCESSFULLY*
-┃📍 *CONNECTED ✅🔥*
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+*✅sᴇssɪᴏɴ ɪᴅ ɢᴇɴᴇʀᴀᴛᴇᴅ✅*
+______________________________
+╔════◇
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝗧𝗛𝗔𝗥𝗨𝗪𝗔 𝐌𝐃 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
+╚══════════════╝
+╔═════◇
+║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ 𝐎𝐰𝐧𝐞𝐫: _94761180276_
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vb5gle1JUM2RWlaBHX2K_
+║ 💜💜💜
+╚══════════════╝ 
+ 𝗧𝗛𝗔𝗥𝗨𝗪𝗔-𝗠𝗗 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 0.𝟬.1
+______________________________`
 };
